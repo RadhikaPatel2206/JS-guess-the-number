@@ -1,0 +1,51 @@
+body {
+    background-image: url(https://storage.pixteller.com/designs/designs-images/2019-03-27/05/simple-background-backgrounds-passion-simple-1-5c9b95d09002a.png);
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header {
+    margin-top: 40px;
+    text-align: center;
+    color: orange;
+    padding: 3em;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form-control {
+    width: 500px;
+}
+
+#result {
+    margin-top: 30px;
+    width: 500px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.button-div {
+    margin-top: 20px;
+    width: 500px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#history {
+    border-radius: 8px;
+    overflow: hidden;
+    margin-top: 40px;
+    width: 500px;
+    text-align: center;
+}
+
+.history-data {
+    padding: 10px;
+    border: 1px solid #ced4da;
+    background-color: orange;
+}
